@@ -1,0 +1,18 @@
+.about-me {
+	display: inline-block;
+	width: 500px;
+  	overflow: hidden;
+  	height: 200px;
+  	/*border: 1px solid #DBDBDB;*/
+}
+
+.input-name {
+	/*border: 1px solid #DBDBDB;*/
+  	padding: 2px 0px;
+  	width: 170px;
+}
+
+.about-me-box {
+	height: 200px;
+	width: 500px;
+}
